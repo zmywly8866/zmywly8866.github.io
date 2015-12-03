@@ -1,11 +1,11 @@
 ### 我的博客
 
-地址：[zmywly8866.github.io](http://zmywly8866.github.io)
+地址：[XXX](XXX)
 
 ### 关于我
-[知乎](http://www.zhihu.com/people/zhang-ming-yun-97)
+[知乎](XXX)
 
-[CSDN博客](http://blog.csdn.net/ekeuy)
+[CSDN博客](XXX)
 
 ### 如何搭建博客
 
