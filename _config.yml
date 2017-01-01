@@ -7,38 +7,37 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 张明云
-  email: zmywly8866@gmail.com
-  link: http://blog.csdn.net/ekeuy
-  weibo: http://weibo.com/zmywly8866
-  github: https://github.com/zmywly8866
+  name: 胡俊
+  email: jia85860161@163.com
+  link: http://931743010.github.io
+  github: https://github.com/931743010
 
 # 站点信息
-title: 张明云的博客 
-description: 张明云的博客
-url: http://zmywly8866.github.io
+title: 胡俊的博客 
+description: 胡俊的博客
+url: http://931743010.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: http://img.my.csdn.net/uploads/201411/21/1416528891_3612.png
-favicon: http://img.my.csdn.net/uploads/201411/21/1416528891_9081.png
+gavatar: XXX
+favicon: XXX
 
 # google analytics 设置
 ga:
-  id: UA-56952211-1
-  url: zmywly8866.github.io
+  id: XXX
+  url: XXX
 
 # disqus 设置
 disqus:
-  shortname: zmywly8866
+  shortname: XXX
 
 # 主题设置，自动激活某个标签
 active: 技术
 
 # 中文本地化
 locals:
-  tags: 标签
-  about: 关于
+  #tags: 标签
+  #about: 关于
   newest: 最新文章
-  archive: 归档
-  content: 目录
+  #archive: 归档
+  #content: 目录
